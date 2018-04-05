@@ -13,9 +13,7 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <br>
 <p>Here are the things I love to do the most :Listening to music </p> 
 <ul>
-<li>Climbing Mountains</li>
-<a href="http://www.trailadventours.com/philippine-mountains/mt-pulag"> Climbed Mt. Pulag </a>
-<li>Travelling and Exploring Places</li>
+<li>My CCA is National Police Cadet Corps.</li>
 <li>Reading Adventure Books</li>
 </ul>
 </body>
